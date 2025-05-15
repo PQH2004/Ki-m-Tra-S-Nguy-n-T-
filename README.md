@@ -1,1 +1,1 @@
-# Ki-m-Tra-S-Nguy-n-T-
+# Kiểm Tra Số Nguyên Tố
